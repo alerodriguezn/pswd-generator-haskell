@@ -1,0 +1,20 @@
+# Haskell
+dist/
+dist-newstyle/
+cabal.project.local
+cabal.project.local~
+cabal.sandbox.config
+cabal.config
+.stack-work/
+*.hi
+*.o
+*.ho
+*.hi.*
+*.o.*
+*.ho.*
+
+# Editor/IDE specific
+.vscode/
+.idea/
+*.swp
+*~
